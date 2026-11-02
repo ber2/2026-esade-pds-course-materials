@@ -1,0 +1,23 @@
+# Python and Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+.pytest_cache/
+
+# Data: downloaded or generated, never committed (see data/README.md)
+data/raw/*
+data/clean/*
+data/mart/*
+!data/*/.gitkeep
+
+# Your own work: copy notebooks here, edit them freely, pull without conflicts
+work/*
+!work/.gitkeep
+
+# Data release asset, built by the lecturer and attached to the GitHub release
+release/
+
+# Editors and OS
+.DS_Store
+Thumbs.db

@@ -1,0 +1,16 @@
+# Course environment `pds`, the same one you used in modules 00–03.
+# You already have it:   conda env update -f environment.yml --prune
+# Starting from scratch: conda env create -f environment.yml
+name: pds
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - pip
+  - setuptools
+  - pandas<3
+  - pyarrow
+  - plotly
+  - nbformat
+  - ipykernel
+  - pytest

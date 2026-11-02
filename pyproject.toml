@@ -1,0 +1,21 @@
+[project]
+name = "esade-pds-course-materials"
+version = "0.1.0"
+requires-python = ">=3.12,<3.13"
+dependencies = [
+    "pandas<3",
+    "pyarrow",
+    "plotly",
+    "nbformat",
+    "ipykernel",
+    "pytest",
+]
+
+[dependency-groups]
+dev = [
+    "nbconvert",
+    "jupyter",
+]
+
+[tool.uv]
+package = false
