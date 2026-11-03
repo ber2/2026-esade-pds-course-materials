@@ -135,8 +135,8 @@ want to keep it.
 | `m04` | Wed 4 Nov | Recap, Python through data, intro to pandas |
 | `m05` | Wed 11 Nov | Grain, group-by, joins |
 | `m06` | Wed 18 Nov | Data visualisation with plotly |
-| `m07` | Wed 25 Nov | Better charts, maps |
-| `m08` | Wed 2 Dec | End-to-end case and exam preparation |
+| `m07` | Wed 25 Nov, 9:00–12:00 | Better charts, maps |
+| `m08` | Wed 25 Nov, 14:00–17:00 | End-to-end case and exam preparation |
 
 Checkpoints, the hackathon brief and submissions are on **Moodle**, not here.
 
