@@ -90,7 +90,7 @@ Open any notebook, click **Select Kernel** (top right) → *Python Environments*
 │       ├── python-warmup.ipynb
 │       ├── lab.ipynb
 │       ├── slides.pdf
-│       └── demo.ipynb       (added after the session)
+│       └── demo.ipynb       (follow-along before the session, full version after)
 ├── work/              ← YOUR copies. Git ignores this folder.
 │   └── m04/
 ├── data/
@@ -125,10 +125,11 @@ want to keep it.
 
 ## 3. Every week
 
-1. **Before the session**: in GitHub Desktop, *Fetch origin* → *Pull origin*.
-2. **In the session**: copy the lab into `work/mNN/` and work there.
-3. **After the session**: pull again. The demo notebook, and from the next session on the lab
-   solution, will be there.
+1. **Before the session**: in GitHub Desktop, *Fetch origin* → *Pull origin*. Then copy the
+   demo and the lab into `work/mNN/`.
+2. **In the session**: follow the demo and do the lab in your copies in `work/mNN/`.
+3. **After the session**: pull again. The full demo replaces the follow-along one, and from the
+   next session on the lab solution is there too.
 
 | Session | Date | Topic |
 |---|---|---|
