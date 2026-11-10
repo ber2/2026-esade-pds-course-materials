@@ -27,7 +27,7 @@ big online stores: about 99,000 orders placed between September 2016 and October
 | `olist_orders_dataset.csv` | 99,441 | an order |
 | `olist_order_items_dataset.csv` | 112,650 | an item line within an order |
 | `olist_order_payments_dataset.csv` | 103,886 | a payment within an order |
-| `olist_order_reviews_dataset.csv` | 104,719 | a review |
+| `olist_order_reviews_dataset.csv` | 99,224 | a review |
 | `olist_customers_dataset.csv` | 99,441 | a customer, as recorded on one order |
 | `olist_products_dataset.csv` | 32,951 | a product |
 | `olist_sellers_dataset.csv` | 3,095 | a seller |
